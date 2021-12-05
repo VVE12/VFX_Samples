@@ -7,6 +7,14 @@ Scene: Assets/Scenes/Main.unity
 
 Effects
 
-First Effect.
+| First Effect  | Second Effect |
+| ------------- | ------------- |
+| ![Uploading Effect 1.gif…](https://github.com/VVE12/VFX_Samples/blob/main/Samples/Effect1.gif)  | ![Uploading Effect 2.gif…](https://github.com/VVE12/VFX_Samples/blob/main/Samples/Effect2.gif)  |
 
-![Uploading Effect 1.gif…](https://github.com/VVE12/VFX_Samples/blob/main/Samples/Effect1.gif)
+| Third Effect  | Fourth Effect  |
+| ------------- | ------------- |
+| ![Uploading Effect 3.gif…](https://github.com/VVE12/VFX_Samples/blob/main/Samples/Effect3.gif) | ![Uploading Effect 4.gif…](https://github.com/VVE12/VFX_Samples/blob/main/Samples/Effect4.gif)  |
+
+| Fifth Effect  | Sixth Effect  |
+| ------------- | ------------- |
+| ![Uploading Effect 5.gif…](https://github.com/VVE12/VFX_Samples/blob/main/Samples/Effect5.gif) | -----  |
