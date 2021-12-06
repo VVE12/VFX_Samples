@@ -228,8 +228,11 @@ PlayableDirector:
     value: {fileID: 693418414}
   - key: {fileID: -8823816739754847917, guid: e0ccd661899f9a1448dd1dd950c5f7fe, type: 2}
     value: {fileID: 693418416}
+  - key: {fileID: 7358086508544221662, guid: e0ccd661899f9a1448dd1dd950c5f7fe, type: 2}
+    value: {fileID: 777536170}
   m_ExposedReferences:
     m_References:
+    - ca43f30720b68d14cb7c37e4e7dbc40d: {fileID: 777536170}
     - 4e5a35fa5efe04e4e948c4ac55549c84: {fileID: 0}
 --- !u!4 &669892429 stripped
 Transform:
@@ -406,6 +409,76 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
+--- !u!1 &777536170
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 777536171}
+  - component: {fileID: 777536172}
+  - component: {fileID: 777536173}
+  m_Layer: 0
+  m_Name: Effect6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &777536171
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 777536170}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &777536172
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 777536170}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &777536173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 777536170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828f08752b8b24840b6c0fd2dbf62b38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _boxes:
+  - {fileID: 7852426053258521398, guid: 2d5160bd58117c749b0b65a9df2715c4, type: 3}
+  - {fileID: 6765134526990940424, guid: ee310c9f30c14ef49a831fad50da0dd0, type: 3}
+  - {fileID: 8018781623099398243, guid: f5f4ed8db45609e41a6d16c3182473dd, type: 3}
+  - {fileID: 8609526647750387846, guid: 8eb61efecdb62384ab6c4265add4153a, type: 3}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
