@@ -17,4 +17,4 @@ Effects
 
 | Fifth Effect  | Sixth Effect  |
 | ------------- | ------------- |
-| ![Uploading Effect 5.gif…](https://github.com/VVE12/VFX_Samples/blob/main/Samples/Effect5.gif) | -----  |
+| ![Uploading Effect 5.gif…](https://github.com/VVE12/VFX_Samples/blob/main/Samples/Effect5.gif) | ![Uploading Effect 6.gif…](https://github.com/VVE12/VFX_Samples/blob/main/Samples/Effect6.gif)  |
